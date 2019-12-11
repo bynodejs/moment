@@ -1,0 +1,20 @@
+{
+  "name": "moment-example",
+  "version": "1.0.0",
+  "description": "moment-example",
+  "author": "AGUMON",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bynodejs/moment.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/bynodejs/moment/issues"
+  },
+  "homepage": "https://github.com/bynodejs/moment#readme"
+}
